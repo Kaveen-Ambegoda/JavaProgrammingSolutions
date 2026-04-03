@@ -24,7 +24,7 @@ public static void main(String[] args) {
 
     total  = price * quantity;
 
-    System.out.print("You have bought "+quantity+ " "+ item + "/s");
+    System.out.println("You have bought "+quantity+ " "+ item + "/s");
     System.out.println("and your price is "+currency+total);
 }
 
